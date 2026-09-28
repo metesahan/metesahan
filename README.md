@@ -1,16 +1,35 @@
-## Hi there 👋
+# Merhaba, ben Mete Şahan
 
-<!--
-**metesahan/metesahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Merhaba, ismim Mete Şahan. 2021'den beri Kodlama, Siber Güvenlik, Bug Bounty,
+Web Geliştirme ve Frontend Design alanlarında kendimi geliştiriyorum.
 
-Here are some ideas to get you started:
+Bilgisayar Mühendisliği öğrencisiyim; offensive security, red teaming ve sızma
+testi alanlarına odaklanıyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Web Sitem
+
+Projelerimin ve çalışmalarımın detaylarına kişisel sitemden ulaşabilirsiniz:
+https://metesahan.github.io
+
+## Yetenekler
+
+- Programlama: C, Python, Bash, SQL
+- Web: HTML5, CSS3, JavaScript (ES6+), Responsive Design
+- Güvenlik Araçları: Metasploit, Nmap, SQLmap, Burp Suite, Nikto, Wireshark,
+  Hydra, John the Ripper, Aircrack-ng, Subfinder
+
+## Sertifikalar
+
+- Cisco Networking Academy — Ethical Hacker (Eylül 2026)
+- BTK Akademi — Endüstriyel Kontrol Sistemleri Siber Güvenliği (Haziran 2026)
+
+## Öne Çıkan Proje
+
+- OSINTURK — Subfinder, Httpx, Censys ve Nikto araçlarını tek Türkçe arayüzde
+  toplayan, PyQt6 ile yazılmış pasif bilgi toplama masaüstü uygulaması.
+
+## İletişim
+
+- E-posta: metesahantr@gmail.com
+- LinkedIn: https://www.linkedin.com/in/mete-şahan-33688b433
+- Instagram: https://www.instagram.com/metesahanm
