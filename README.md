@@ -23,9 +23,10 @@ Bilgisayar Mühendisliği öğrencisiyim. 2021'den bu yana yazılım geliştirme
 
 ---
 
-### 🚀 Öne Çıkan Proje
+### 🚀 Öne Çıkan Projeler
 
 * **[OSINTURK](https://github.com/metesahan/OSINTURK):** Subfinder, Httpx, Censys ve Nikto araçlarını tek bir Türkçe masaüstü arayüzünde buluşturan, PyQt6 ile geliştirilmiş pasif bilgi toplama (OSINT) uygulaması.
+* **[Uncipher](https://github.com/metesahan/Uncipher):** Sezar, Vigenère, Affine, Route, Polybius, Bacon, Pigpen gibi 9 klasik şifreleme yöntemini Türkçe ve İngilizce alfabeyle zincirleme şifreleyip çözen, kelime listesiyle otomatik kırma yapan, spektrogram ve Mors gibi ses/görsel inceleme araçları ile görsel anlatımlı bir kriptoloji sözlüğü sunan, Python (pywebview) ile geliştirilmiş macOS/Windows masaüstü uygulaması.
 
 ---
 
