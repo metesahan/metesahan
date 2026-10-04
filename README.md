@@ -27,6 +27,7 @@ Bilgisayar Mühendisliği öğrencisiyim. 2021'den bu yana yazılım geliştirme
 
 * **[OSINTURK](https://github.com/metesahan/OSINTURK):** Subfinder, Httpx, Censys ve Nikto araçlarını tek bir Türkçe masaüstü arayüzünde buluşturan, PyQt6 ile geliştirilmiş pasif bilgi toplama (OSINT) uygulaması.
 * **[Uncipher](https://github.com/metesahan/Uncipher):** Sezar, Vigenère, Affine, Route, Polybius, Bacon, Pigpen gibi 9 klasik şifreleme yöntemini Türkçe ve İngilizce alfabeyle zincirleme şifreleyip çözen, kelime listesiyle otomatik kırma yapan, spektrogram ve Mors gibi ses/görsel inceleme araçları ile görsel anlatımlı bir kriptoloji sözlüğü sunan, Python (pywebview) ile geliştirilmiş macOS/Windows masaüstü uygulaması.
+* **[Türkiye Kameraları](https://github.com/metesahan/Turkiye-Kameralar):** İBB'nin canlı şehir kameralarını tek ekranda izleyen; YOLO11 ile insan, araç, gemi ve sokak hayvanı tespiti, BoT-SORT ile nesne takibi ve tıklanan nesneye otomatik kilitlenen zoom sunan, Open-Meteo hava durumu entegrasyonlu, PyQt6 ile geliştirilmiş macOS/Windows masaüstü uygulaması.
 
 ---
 
