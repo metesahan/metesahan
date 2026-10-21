@@ -14,6 +14,7 @@ Bilgisayar Mühendisliği öğrencisiyim. 2021'den bu yana yazılım geliştirme
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C93?style=flat-square&logo=kali-linux&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=white)
@@ -28,6 +29,7 @@ Bilgisayar Mühendisliği öğrencisiyim. 2021'den bu yana yazılım geliştirme
 * **[OSINTURK](https://github.com/metesahan/OSINTURK):** Subfinder, Httpx, Censys ve Nikto araçlarını tek bir Türkçe masaüstü arayüzünde buluşturan, PyQt6 ile geliştirilmiş pasif bilgi toplama (OSINT) uygulaması.
 * **[Uncipher](https://github.com/metesahan/Uncipher):** Sezar, Vigenère, Affine, Route, Polybius, Bacon, Pigpen gibi 9 klasik şifreleme yöntemini Türkçe ve İngilizce alfabeyle zincirleme şifreleyip çözen, kelime listesiyle otomatik kırma yapan, spektrogram ve Mors gibi ses/görsel inceleme araçları ile görsel anlatımlı bir kriptoloji sözlüğü sunan, Python (pywebview) ile geliştirilmiş macOS/Windows masaüstü uygulaması.
 * **[Türkiye Kameraları](https://github.com/metesahan/Turkiye-Kameralar):** İBB'nin canlı şehir kameralarını tek ekranda izleyen; YOLO11 ile insan, araç, gemi ve sokak hayvanı tespiti, BoT-SORT ile nesne takibi ve tıklanan nesneye otomatik kilitlenen zoom sunan, Open-Meteo hava durumu entegrasyonlu, PyQt6 ile geliştirilmiş macOS/Windows masaüstü uygulaması.
+* **[Arduino Radar](https://github.com/metesahan/arduino-radar):** Arduino Uno, HC-SR04 ultrasonik sensör ve servo motorla 15°–165° arasını tarayıp cisimleri tespit eden; ölçümleri seri port üzerinden alıp Processing ile ya da Web Serial API kullanan tarayıcı arayüzüyle canlı radar ekranında gösteren donanım projesi.
 
 ---
 
